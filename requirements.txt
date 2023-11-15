@@ -1,4 +1,0 @@
-geopandas
-chart_studio
-tabula-py
-missingno

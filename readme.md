@@ -14,17 +14,16 @@
 5. [FAQs](#faqs)
 ### General Info
 ***
-El objetivo de este proyecto es aplicar aprendizaje automatizado para clasificar los datos de un datase utilizando la libreria de Python SKLearn. 
+El objetivo de este proyecto es aplicar aprendizaje automatizado para clasificar los datos de un dataset utilizando la libreria de Python SKLearn. 
 
 <b>Objetivos:</b> 
-- Aplique machine learning en su empresa
-- Practique con diversos ejemplos
-- Vea como los algoritmos de clasificación están por todos lados en nuestro dia a dia
-- Analize resultados con la mente de un científico de datos
-- Compare el resultado de algoritmos lineales
-- Entienda a profundidad lo que es aprendizaje de máquina para clasificación
-- Haga estudios replicables, con estrategias de prueba y testeo
-- Vea Support Vector Machines, Árboles de Decisión y Dummy Classifiers.
+- Entender la aplicación básica de los algoritmos de clasificación
+- Cual algoritmo de clasificación utilizar según el caso de estudio: Support Vector Machines o Árboles de Decisión.
+- Importancia de la estratificación proporcional de las muestras de entrada
+- La importancia de aplicar un algoritmo de Support Vector Machines con datos estandarizados.
+- Entienda la importancia de usar un estimador no lineal
+- La importancia de aplicar un algoritmo de arbol de decisión sin datos estandarizados y combinarlo con Dummy Classifiers.
+
 
 ### Screenshot
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
