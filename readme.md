@@ -18,7 +18,7 @@ El objetivo de este proyecto es aplicar aprendizaje automatizado para clasificar
 
 <b>Objetivos:</b> 
 - Entender la aplicación básica de los algoritmos de clasificación
-- Cual algoritmo de clasificación utilizar según el caso de estudio: Support Vector Machines o Árboles de Decisión.
+- Cual algoritmo de clasificación utilizar: Support Vector Machines o Árboles de Decisión.
 - Importancia de la estratificación proporcional de las muestras de entrada
 - La importancia de aplicar un algoritmo de Support Vector Machines con datos estandarizados.
 - Entienda la importancia de usar un estimador no lineal
